@@ -139,3 +139,4 @@ Criei um projeto completo de Pedra, Papel e Tesoura com as seguintes caracterís
 - **Interface visual** com emojis e formatação
 
 O jogo está pronto para ser executado! O placar será salvo automaticamente no arquivo `placar.txt` e você pode verificar suas estatísticas a qualquer momento durante o jogo. 🎉
+
